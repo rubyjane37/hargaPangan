@@ -30,7 +30,7 @@ Proyek **Data Mining** untuk memperkirakan harga harian komoditas pangan di Pasa
 ## Instalasi
 
 ```bash
-git clone <url-repo-anda>
+git clone <url>
 cd hargaPangan
 
 python3 -m venv .venv
